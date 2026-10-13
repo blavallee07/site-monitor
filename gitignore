@@ -1,0 +1,5 @@
+.site_monitor_cache/
+sites.json
+__pycache__/
+*.pyc
+.venv/
